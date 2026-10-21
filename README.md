@@ -60,3 +60,15 @@ years, genres, and descriptions.
 ## Author
 Created as a portfolio project to practise data analytics,
 data visualisation, and basic natural language processing.Netflix Content Analytics and AI-Powered Title Similarity
+## Key Findings
+
+- Content type: [Insert the actual Movie vs TV Show breakdown]
+- Genre distribution: [Insert the most represented genres]
+- Country distribution: [Insert the leading countries in your analysis]
+
+## Limitations
+
+- The analysis describes the available Netflix catalogue snapshot,
+  not the full current streaming catalogue.
+- Text similarity does not measure audience preference or popularity.
+- Catalogue gaps alone do not establish unmet viewer demand.
